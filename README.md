@@ -7,5 +7,5 @@
 - Introduction to Soft Computing (2 credits)
 
 ### Audited Courses 
-- Application of Computer Vision using Deep Learning
-- GPU architecture
+- Applications of Computer Vision and Deep Learning
+- GPU Architectures and Programming
